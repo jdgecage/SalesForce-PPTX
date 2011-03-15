@@ -1,0 +1,13 @@
+Author: JJ Willete
+Date Started: 3/14/2010
+Primary Language: C# 4.0
+Platform: Windows
+
+I made a force.com database with some random data, 
+and now I'm looking to generate some PPTX slides
+off of it. 
+
+Learning git, force.com, and hopefully some new 
+functional stuff that I can express using the
+LINQ extension methods + lambdas or F#.
+
